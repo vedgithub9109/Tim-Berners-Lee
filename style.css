@@ -81,3 +81,15 @@ h2 {
 .list:hover {
     color: white
 }
+
+.icons h3 {
+    display: inline
+}
+
+#articles {
+    text-decoration: underline !important
+}
+
+.icons a {
+    text-shadow: none
+}
